@@ -1,5 +1,8 @@
 <?php
 require_once "../app/bootstrap.php";
+
+// Init Core Library
+$init = new Core();
 /**
  * Created by PhpStorm.
  * User: Dmitr
