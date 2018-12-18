@@ -6,6 +6,10 @@
  */
 
 class Controller {
+    public function __construct() {
+
+    }
+
 //    load model
     public function model($model) {
 //      require model file
